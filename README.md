@@ -1,2 +1,2 @@
 # veterinary-app
-A simple mobile application maked to veterinarians.
+A simple mobile application made for veterinarians.

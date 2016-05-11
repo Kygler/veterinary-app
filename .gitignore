@@ -31,3 +31,9 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Platforms cordova
+platforms/
+
+# Webstorm files
+.idea/
